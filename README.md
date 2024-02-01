@@ -8,6 +8,7 @@ and manage department appointments, update statuses, and
 request leave. The entire project, from concept to execution,
 demonstrating expertise in full-stack development,
 authentication systems, and database management.
-Tech Stack :
+
+# Tech Stack :
 Core Java, Spring Boot, Spring Data JPA, Spring Security,
 validation, Hibernate, MySQL, Lombok, Swagger-UI, STS, Git
